@@ -1,3 +1,5 @@
 console.log("Olá mundo Git!")
 console.log("Arquivo Alterado!")
 alert("Acrescimo de codigo")
+console.log("teste de conflito")
+console.log("comando merge")
